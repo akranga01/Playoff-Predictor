@@ -1,4 +1,4 @@
-# Playoff-PredictorProject 
+# Playoff-Predictor Project 
 
 Goal: Classify an NBA Team as playoff bound or not using specific Team Analytics collected from stats.NBA.com
 
