@@ -1,6 +1,6 @@
 # Playoff-PredictorProject 
 
-Goal: Classify an NBA Team as playoff bound or not using Team Factors 
+Goal: Classify an NBA Team as playoff bound or not using specific Team Analytics collected from stats.NBA.com
 
 Disclaimer: The reason we use team statistics is because there are many biases when looking at individual player stats as great player stats may not translate to overall team success, as can be seen by Bradley Beal and the Washington Wizards, Devin Booker and the Phoenix Suns, 
 
