@@ -2,7 +2,7 @@
 
 Goal: Classify an NBA Team as playoff bound or not using specific Team Analytics collected from stats.NBA.com
 
-Disclaimer: The reason we use team statistics is because there are many biases when looking at individual player stats as great player stats may not translate to overall team success, as can be seen by Bradley Beal and the Washington Wizards, Devin Booker and the Phoenix Suns, 
+Disclaimer: The reason we use team statistics is because there are many biases when looking at individual player stats as great player stats may not translate to overall team success, which can be seen by Bradley Beal and the Washington Wizards, Devin Booker and the Phoenix Suns, and more.
 
 
 Step 1: First identify the baseline year to start collecting data based on when the three point frequency increased the most to make the model have less bias and more accuracy.
